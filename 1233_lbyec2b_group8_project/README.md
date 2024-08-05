@@ -1,6 +1,6 @@
 # project-starter
 
-Source Code: [text](https://github.com/rchmnde25/LBYEC2B-Project/tree/main/1233_lbyec2b_group8_project)
+Source Code: [https://github.com/rchmnde25/LBYEC2B-Project/tree/main/1233_lbyec2b_group8_project](https://github.com/rchmnde25/LBYEC2B-Project/tree/main/1233_lbyec2b_group8_project)
 
 ## Contributors
 1. Duran, Vian Gavrylle
